@@ -1,0 +1,5 @@
+.env
+/logs
+hparams.ini
+tensorboard.sh
+.idea
